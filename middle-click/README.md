@@ -37,7 +37,7 @@ up" and "page down" events.
 
    - If you have `~/bin/` in your path, you can just run `arc-middle.sh` whenever you reconnect your mouse.
 
-  - If you don't have `~/bin/` in your path, then add it like so:
+  - If you don't have `~/bin/` in your path, then add this line to your `~/.bashrc` or `~/.zshrc` file:
 
     ```
     export PATH=$HOME/bin:$PATH
