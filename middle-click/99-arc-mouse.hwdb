@@ -1,0 +1,8 @@
+###########################################################
+# Microsoft
+###########################################################
+
+# Microsoft Arc Touch Mouse
+keyboard:usb:v045Ep07B1*
+ KEYBOARD_KEY_7004b=msdos
+ KEYBOARD_KEY_7004e=msdos
